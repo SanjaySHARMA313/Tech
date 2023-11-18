@@ -1,0 +1,13 @@
+.hello{margin:2px;}
+.style1{margin:0% 25%;display:flex;width:50%;height:20px;padding:1%;}
+.style2{margin:0% 25%;font-weight:400;font-size:large;}
+.business{margin:0% 25%;}
+.btn2{color:green;width:48%;height:40px;margin-left:3px;background-color: black;padding:1%;margin-left: 4%;}
+.btn{display:flex;margin:1% 25%;}
+.btn1{ color:orange;width:48%;height:40px;background-color: black;padding:1%;}
+.thead{display:flex;}
+th,td{display:flex;flex:1;border:1px solid black}
+table{width:100%;}
+tbody{display:flex;flex-direction: column;}
+.td{display:flex;}
+
